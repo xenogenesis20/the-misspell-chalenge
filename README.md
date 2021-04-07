@@ -13,8 +13,9 @@ Find one misspell on the BreatheCode lessons, projects or exercises and create a
 ![Github logo on breathecode lesson](https://github.com/breatheco-de/the-misspell-chalenge/blob/master/github-logo.png?raw=true)
 
 1.1. Click on the Github logo at the top of the lesson, it will take you to the lesson source file on github.com.  
-1.2. Click on the pencil icon (edit) and the lesson source file will become editable.  
-1.3. Fix the lesson misspell.  
+1.2  In the top right, click the "fork" button. 
+1.3 Click on the pencil icon (edit) and the lesson source file will become editable.  
+1.4 Fix the lesson misspell.  
  
 
 
